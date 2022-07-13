@@ -6,6 +6,6 @@
 - 🤔 比较喜欢写一些小东西
 - 😄 大家能和我交朋友就好啦 hahaha
 - 💬 Emmmm......
-
-
+- 正在学习：
+![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
 
