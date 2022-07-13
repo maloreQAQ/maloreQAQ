@@ -6,6 +6,11 @@
 - 🤔 比较喜欢写一些小东西
 - 😄 大家能和我交朋友就好啦 hahaha
 - 💬 Emmmm......
-- 正在学习：
+<h1 align="center">
+<a href="https://sunguoqi.com/">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Have Fun&center=true&size=27">
+</a>
+</h1>
+
 ![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
 
