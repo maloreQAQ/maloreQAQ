@@ -8,5 +8,5 @@
 - 💬 Emmmm......
 
 
-![](https://img.shields.io/badge/Java-yellow)![](https://img.shields.io/badge/%3CHTML%3E-%3CCOLOR%3E)
+![](https://img.shields.io/badge/Java-yellow)  ![](https://img.shields.io/badge/HTML-%3CCOLOR%3E)
 
